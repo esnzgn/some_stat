@@ -1,4 +1,4 @@
-# some_stat
+# some_stat all R code
 some_stat
 
 # Load required libraries
